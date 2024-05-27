@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Eventos>
+    <Festival>
+        <Nome>Músicas do Mundo</Nome>
+        <Eventos>
+            <Festival>
+                <Nome>Música Cubana</Nome>
+                <Eventos/>
+            </Festival>
+            <Festival>
+                <Nome>African Music Awards</Nome>
+                <Eventos/>
+            </Festival>
+            <Festival>
+                <Nome>Bollywood Music Festival</Nome>
+                <Eventos>
+                    <Espetaculo numBilhetes="500">
+                        <Nome>Suna Hai</Nome>
+                        <Artistas>
+                            <Artista>Suna Hai</Artista>
+                        </Artistas>
+                        <Localidade>Sines</Localidade>
+                    </Espetaculo>
+                    <Espetaculo numBilhetes="400">
+                        <Nome>Rait Zara</Nome>
+                        <Artistas>
+                            <Artista>Rait Zara</Artista>
+                        </Artistas>
+                        <Localidade>Sines</Localidade>
+                    </Espetaculo>
+                </Eventos>
+            </Festival>
+        </Eventos>
+    </Festival>
+</Eventos>
